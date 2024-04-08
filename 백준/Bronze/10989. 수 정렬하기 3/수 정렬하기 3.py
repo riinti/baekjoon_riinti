@@ -12,4 +12,4 @@ for _ in range(N):
 for i in range(len(cou)):
     if cou[i] != 0: 
         for _ in range(cou[i]):
-            print(i) #cou의 0이 아닌값 즉 nlist에서 존재한 값을 0부터 차례로 출력
+            print(i) #cou의 0이 아닌값 즉 입력값에서 존재한 값을 0부터 차례로 출력
